@@ -4,13 +4,13 @@ languages:
 - python
 products:
 - azure
-description: "PySpark examples running on Azure Databricks to analyze sample Microsoft Academic Graph Data on Azure storage."
+description: "PySpark examples running on Azure Databricks to analyze Microsoft Academic Graph Data on Azure storage."
 urlFragment: microsoft-academic-graph-pyspark-samples
 ---
 
 # Microsoft Academic Graph PySpark Samples
 
-PySpark examples running on Azure Databricks to analyze sample Microsoft Academic Graph Data on Azure storage.
+PySpark examples running on Azure Databricks to analyze Microsoft Academic Graph Data on Azure storage.
 
 ## Prerequisites
 
